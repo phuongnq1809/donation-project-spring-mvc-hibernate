@@ -1,0 +1,41 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  color: #777;
+  line-height: 1.5;
+}
+
+/* ULTILITIES */
+a:link,
+a:visited {
+  text-decoration: none;
+  color: #199cdb;
+}
+
+h2 {
+  font-size: 20px;
+  font-weight: bolder;
+  color: #0d6efd;
+}
+
+/* BANNER */
+.banner {
+  background: url("../images/banner-user-home.jpg");
+  height: 220px;
+
+}
+
+/* FOOTER */
+#footer {
+  background-color: #f7f7f7;
+}
+
+.footer-container {
+  padding: 20px;
+}
