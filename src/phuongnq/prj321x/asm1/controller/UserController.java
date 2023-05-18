@@ -1,3 +1,6 @@
+/*
+* User Controller
+*/
 package phuongnq.prj321x.asm1.controller;
 
 import java.text.SimpleDateFormat;
