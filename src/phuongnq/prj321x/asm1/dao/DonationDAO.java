@@ -1,3 +1,6 @@
+/*
+* Donation DAO
+*/
 package phuongnq.prj321x.asm1.dao;
 
 import java.util.List;
